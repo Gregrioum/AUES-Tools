@@ -4,6 +4,9 @@
 
 A streamlined **Blender 4.2+ / 5.x Extension** built for automotive Sub-D & hard-surface modeling workflows. Consolidates the high-frequency modeling, fairing, modifier, surface-inspection, and viewport-capture actions you reach for constantly into a single N-Panel (`View 3D > N > AUES`) and quick Pie Menu (`Alt + Shift + A`).
 
+> [!NOTE]
+> AUES Tools is a lightweight workflow shortcut add-on that brings Blender's existing built-in modeling, modifier, shading, and viewport tools into one convenient N-Panel and Pie Menu for faster access. It is designed to streamline everyday clicks and menu navigation rather than introduce new standalone modeling systems.
+
 - **Author:** `wbwbwb`
 - **Compatibility:** Blender **4.2+** (tested on **Blender 4.5.15 LTS** & **Blender 5.2.3 LTS**)
 - **License:** GPL-3.0-or-later
