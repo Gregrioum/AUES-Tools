@@ -21,6 +21,8 @@ A streamlined **Blender 4.2+ / 5.x Extension** built for automotive Sub-D & hard
 
 ## Features
 
+![AUES Tools v2.1 Feature Breakdown](docs/images/aues_v21_panel_main.png)
+
 ### 1. LoopTools Quick Access
 - 1-click access to **Relax**, **Space**, **Curve**, **Circle**, and **GStretch** (`Project` / `Irregular` / `Regular`) with native **F9 Redo Panel** controls restored.
 - Automatic detection and 1-click enable helper supporting both **Blender 4.2+ Extensions (`bl_ext.*.looptools`)** and legacy `mesh_looptools`.
